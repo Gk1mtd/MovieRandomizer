@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<Movie>
+  <Movie ID="1" title="ROMA Alfonso Cuarón"/>
+  <Movie ID="2" title="BURNING Lee Chang-dong"/>
+  <Movie ID="3" title="FIRST REFORMED Paul Schrader"/>
+  <Movie ID="4" title="THE FAVOURITE Yorgos Lanthimos"/>
+  <Movie ID="5" title="COLD WAR Pawel Pawlikowski"/>
+  <Movie ID="6" title="LEAVE NO TRACE Debra Granik"/>
+  <Movie ID="7" title="BLACKKKLANSMAN Spike Lee"/>
+  <Movie ID="8" title="IF BEALE STREET COULD TALK Barry Jenkins"/>
+  <Movie ID="9" title="SHOPLIFTERS Hirokazu Koreeda"/>
+  <Movie ID="10" title="THE RIDER Chloé Zhao"/>
+  <Movie ID="11" title="YOU WERE NEVER REALLY HERE Lynne Ramsay"/>
+  <Movie ID="12" title="ZAMA Lucrecia Martel"/>
+  <Movie ID="13" title="SORRY TO BOTHER YOU Boots Riley"/>
+  <Movie ID="14" title="PHANTOM THREAD Paul Thomas Anderson"/>
+  <Movie ID="15" title="A STAR IS BORN Bradley Cooper"/>
+  <Movie ID="16" title="EIGHTH GRADE Bo Burnham"/>
+  <Movie ID="17" title="HEREDITARY Ari Aster"/>
+  <Movie ID="18" title="WIDOWS Steve McQueen"/>
+  <Movie ID="19" title="CAN YOU EVER FORGIVE ME? Marielle Heller"/>
+  <Movie ID="20" title="HAPPY AS LAZZARO Alice Rohrwacher"/>
+  <Movie ID="21" title="BLACK PANTHER Ryan Coogler"/>
+  <Movie ID="22" title="THE OTHER SIDE OF THE WIND Orson Welles"/>
+  <Movie ID="23" title="THE IMAGE BOOK Jean-Luc Godard"/>
+  <Movie ID="24" title="SUPPORT THE GIRLS Andrew Bujalski"/>
+  <Movie ID="25" title="ANNIHILATION Alex Garland"/>
+  <Movie ID="26" title="ISLE OF DOGS Wes Anderson"/>
+  <Movie ID="27" title="PRIVATE LIFE Tamara Jenkins"/>
+  <Movie ID="28" title="MINDING THE GAP Bing Liu"/>
+  <Movie ID="29" title="THE DEATH OF STALIN Armando Iannucci"/>
+  <Movie ID="30" title="MISSION: IMPOSSIBLE - FALLOUT Christopher McQuarrie"/>
+  <Movie ID="31" title="WESTERN Valeska Grisebach"/>
+  <Movie ID="32" title="PADDINGTON 2 Paul King"/>
+  <Movie ID="33" title="WON'T YOU BE MY NEIGHBOR? Morgan Neville"/>
+  <Movie ID="34" title="SPIDER-MAN: INTO THE SPIDER-VERSE Bob Persichetti, Peter Ramsey &amp; Rodney Rothman"/>
+  <Movie ID="35" title="FIRST MAN Damien Chazelle"/>
+  <Movie ID="36" title="THE BALLAD OF BUSTER SCRUGGS Joel Coen &amp; Ethan Coen"/>
+  <Movie ID="37" title="FREE SOLO Elizabeth Chai Vasarhelyi &amp; Jimmy Chin"/>
+  <Movie ID="38" title="A QUIET PLACE John Krasinski"/>
+  <Movie ID="39" title="SHIRKERS Sandi Tan"/>
+  <Movie ID="40" title="MADELINE'S MADELINE Josephine Decker"/>
+  <Movie ID="41" title="BLINDSPOTTING Carlos López Estrada"/>
+  <Movie ID="42" title="MANDY Panos Cosmatos"/>
+  <Movie ID="43" title="ASH IS PUREST WHITE Jia Zhangke"/>
+  <Movie ID="44" title="LET THE SUNSHINE IN Claire Denis"/>
+  <Movie ID="45" title="HIGH LIFE Claire Denis"/>
+  <Movie ID="46" title="TRANSIT Christian Petzold"/>
+  <Movie ID="47" title="FACES PLACES Agnès Varda &amp; JR"/>
+  <Movie ID="48" title="WILDLIFE Paul Dano"/>
+  <Movie ID="49" title="LEAN ON PETE Andrew Haigh"/>
+  <Movie ID="50" title="THE WILD PEAR TREE Nuri Bilge Ceylan"/>
+</Movie>
