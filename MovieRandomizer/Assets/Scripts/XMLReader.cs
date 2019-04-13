@@ -24,7 +24,7 @@ namespace MovieRandomizer
 
         public String GetMovies(int randomNumber)
         {
-            xmlReader = XmlReader.Create(Application.dataPath + "/Database/MovieDatabase1000.xml");
+            xmlReader = XmlReader.Create("http://meinerseitz.de/RandoMovie/MovieDatabase1000.xml");
             while (xmlReader.Read())
             {
                 if ((xmlReader.NodeType == XmlNodeType.Element) && (xmlReader.Name == "Movie"))
