@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<Movies-Collection>
+  <Movies>
+    <Movie name="Drei Mann auf einem Boot">
+      <Year>1950</Year>
+      <Regie>Donald Dark</Regie>
+    </Movie>
+    <Movie name="Donkey Punch">
+      <Year>2014</Year>
+      <Regie>Anonym</Regie>
+    </Movie>
+    <Movie name="Blade Runner">
+      <Year>1990</Year>
+      <Regie>Walter Moers</Regie>
+    </Movie>
+  </Movies>
+</Movies-Collection>
